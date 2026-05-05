@@ -1,1 +1,1 @@
-github link : https://github.com/PetaFlops-web/latency-analysis-engine
+github link : https://github.com/PetaFlops-web/Eksperimen_SML_AkbarVabiansyah
